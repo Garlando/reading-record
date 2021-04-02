@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <NavBar/>
+    <Bookshelf/>
   </div>
 </template>
 
 <script>
 import NavBar from './components/NavBar.vue'
+import Bookshelf from './components/Bookshelf.vue'
 
 export default {
   name: 'App',
   components: {
-    NavBar
+    NavBar,
+    Bookshelf
   }
 }
 </script>
