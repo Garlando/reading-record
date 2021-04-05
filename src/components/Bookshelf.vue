@@ -2,18 +2,9 @@
   <div>
       <h1>Bookshelf</h1>
       <div class="flex">
-        <Book v-bind:BookAttributes="books[0]"/>
-        <Book v-bind:BookAttributes="books[1]"/>
-        <Book v-bind:BookAttributes="books[2]"/>
-        <Book v-bind:BookAttributes="books[3]"/>
-        <Book v-bind:BookAttributes="books[4]"/>
-        <Book v-bind:BookAttributes="books[5]"/>
-        <Book v-bind:BookAttributes="books[6]"/>
-        <Book v-bind:BookAttributes="books[7]"/>
-        <Book v-bind:BookAttributes="books[8]"/>
-        <Book v-bind:BookAttributes="books[9]"/>
-        <Book v-bind:BookAttributes="books[10]"/>
+        <Book v-for="book in books" :key="book" v-bind:BookAttributes="book"/>
       </div>
+      <div class="h-10 w-full bg-yellow-900"></div>
   </div>
 </template>
 
