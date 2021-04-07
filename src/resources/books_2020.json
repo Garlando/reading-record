@@ -1,0 +1,507 @@
+[
+    {
+      "Author": "Ken McCoy",
+      "Title": "Elsewhere",
+      "Date_Finished": "2.1.20"
+    },
+    {
+      "Author": "Helen Forrester ",
+      "Title": "By The Waters Of Liverpool",
+      "Date_Finished": "6.1.20"
+    },
+    {
+      "Author": "Agnes Light",
+      "Title": "Midwife On Call",
+      "Date_Finished": "9.1.20"
+    },
+    {
+      "Author": "Margaret Atwood",
+      "Title": "The Testaments",
+      "Date_Finished": "14.1.20"
+    },
+    {
+      "Author": "Clare Mackintosh",
+      "Title": "I Let You Go",
+      "Date_Finished": "20.1.20"
+    },
+    {
+      "Author": "Margaret Atwood ",
+      "Title": "Wilderness Tips",
+      "Date_Finished": "26.1.20"
+    },
+    {
+      "Author": "Annabel Pitcher",
+      "Title": "Silence Is Goldfish",
+      "Date_Finished": "30.1.20"
+    },
+    {
+      "Author": "John O'Farrell ",
+      "Title": "The Man Who Forgot His Wife",
+      "Date_Finished": "2.2.20"
+    },
+    {
+      "Author": "Sue Monk Kidd ",
+      "Title": "The Secret Life Of Bees",
+      "Date_Finished": "6.2.20"
+    },
+    {
+      "Author": "Helen Dunmore ",
+      "Title": "The Siege",
+      "Date_Finished": "12.2.20"
+    },
+    {
+      "Author": "Maggie Ford",
+      "Title": "A Girl In Wartime",
+      "Date_Finished": "16.2.20"
+    },
+    {
+      "Author": "Katie Kirby ",
+      "Title": "Reluctant Adult",
+      "Date_Finished": "17.2.20"
+    },
+    {
+      "Author": "John Green",
+      "Title": "Paper Towns",
+      "Date_Finished": "21.2.20"
+    },
+    {
+      "Author": "Sophie King",
+      "Title": "The School Run",
+      "Date_Finished": "25.2.20"
+    },
+    {
+      "Author": "Catherine Cookson",
+      "Title": "The Black Candle",
+      "Date_Finished": "4.3.20"
+    },
+    {
+      "Author": "Louis de Bernieres ",
+      "Title": "The Dust That Falls From Dreams",
+      "Date_Finished": "9.3.20"
+    },
+    {
+      "Author": "Nina George",
+      "Title": "The Little Breton Bistro",
+      "Date_Finished": "12.3.20"
+    },
+    {
+      "Author": "Lulu Taylor",
+      "Title": "The Snow Rose",
+      "Date_Finished": "21.3.20"
+    },
+    {
+      "Author": "Sue Perkins",
+      "Title": "Spectacles",
+      "Date_Finished": "24.3.20"
+    },
+    {
+      "Author": "Emma Healey",
+      "Title": "Whistle In The Dark",
+      "Date_Finished": "27.3.20"
+    },
+    {
+      "Author": "Gill Sims",
+      "Title": "Why Mummy Drinks",
+      "Date_Finished": "29.3.20"
+    },
+    {
+      "Author": "Emma Conway",
+      "Title": "Will I Ever Pee Alone Again?",
+      "Date_Finished": "29.3.20"
+    },
+    {
+      "Author": "Monica Ali",
+      "Title": "In The Kitchen",
+      "Date_Finished": "1.4.20"
+    },
+    {
+      "Author": "Claire Sandy",
+      "Title": "What Would Mary Berry Do?",
+      "Date_Finished": "5.4.20"
+    },
+    {
+      "Author": "Anne Herries",
+      "Title": "Ransom Bride",
+      "Date_Finished": "8.4.20"
+    },
+    {
+      "Author": "Anne Herries",
+      "Title": "The Pirate's Willing Captive",
+      "Date_Finished": "10.4.20"
+    },
+    {
+      "Author": "Dr Amanda Brown ",
+      "Title": "The Prison Doctor ",
+      "Date_Finished": "12.4.20"
+    },
+    {
+      "Author": "Gill Sims ",
+      "Title": "Why Mummy Swears",
+      "Date_Finished": "15.4.20"
+    },
+    {
+      "Author": "Isabel Allende",
+      "Title": "Island Beneath The Sea",
+      "Date_Finished": "19.4.20"
+    },
+    {
+      "Author": "Jamie Morgan Kane",
+      "Title": "34 Years In Hell",
+      "Date_Finished": "21.4.20"
+    },
+    {
+      "Author": "Juliet Landon",
+      "Title": "One Night In Paradise",
+      "Date_Finished": "23.4.20"
+    },
+    {
+      "Author": "Juliet Landon ",
+      "Title": "A Most Unseemly Summer",
+      "Date_Finished": "25.4.20"
+    },
+    {
+      "Author": "Gill Sims ",
+      "Title": "Why Mummy doesn't Give A ****!",
+      "Date_Finished": "27.4.20"
+    },
+    {
+      "Author": "Chimamanda Ngozi Adichie ",
+      "Title": "Half Of A Yellow Sun ",
+      "Date_Finished": "1.5.20"
+    },
+    {
+      "Author": "Amanda McCabe",
+      "Title": "A Sinful Alliance",
+      "Date_Finished": "4.5.20"
+    },
+    {
+      "Author": "Amanda McCabe ",
+      "Title": "A Notorious Woman",
+      "Date_Finished": "6.5.20"
+    },
+    {
+      "Author": "Mae West",
+      "Title": "Love As Always, Mum xxx",
+      "Date_Finished": "8.5.20"
+    },
+    {
+      "Author": "Louise Pentland",
+      "Title": "Wilde Like Me ",
+      "Date_Finished": "11.5.20"
+    },
+    {
+      "Author": "Jane Casey ",
+      "Title": "Let The Dead Speak",
+      "Date_Finished": "14.5.20"
+    },
+    {
+      "Author": "Maureen Lee",
+      "Title": "Lights Out Liverpool",
+      "Date_Finished": "18.5.20"
+    },
+    {
+      "Author": "Maureen Lee",
+      "Title": "Dancing In The Dark",
+      "Date_Finished": "22.5.20"
+    },
+    {
+      "Author": "Maureen Lee",
+      "Title": "The Girl From Barefoot House",
+      "Date_Finished": "25.5.20"
+    },
+    {
+      "Author": "Maureen Lee ",
+      "Title": "Laceys Of Liverpool",
+      "Date_Finished": "28.5.20"
+    },
+    {
+      "Author": "Maureen Lee",
+      "Title": "Put Out The Fires",
+      "Date_Finished": "31.5.20"
+    },
+    {
+      "Author": "Maureen Lee ",
+      "Title": "Through The Storm",
+      "Date_Finished": "3.6.20"
+    },
+    {
+      "Author": "Maureen Lee",
+      "Title": "Kitty And Her Sisters",
+      "Date_Finished": "6.6.20"
+    },
+    {
+      "Author": "Maureen Lee ",
+      "Title": "Mother Of Pearl",
+      "Date_Finished": "10.6.20"
+    },
+    {
+      "Author": "Maureen Lee ",
+      "Title": "The Kelly Sisters ",
+      "Date_Finished": "13.6.20"
+    },
+    {
+      "Author": "Maureen Lee ",
+      "Title": "The Seven Streets Of Liverpool",
+      "Date_Finished": "14.6.20"
+    },
+    {
+      "Author": "Caroline Lea",
+      "Title": "The Glass Woman",
+      "Date_Finished": "17.6.20"
+    },
+    {
+      "Author": "Candice Carty-Williams",
+      "Title": "Queenie",
+      "Date_Finished": "19.6.20"
+    },
+    {
+      "Author": "Christina Dalcher",
+      "Title": "Vox",
+      "Date_Finished": "21.6.20"
+    },
+    {
+      "Author": "Menna Van Praag ",
+      "Title": "The Lost Art Of Letter Writing ",
+      "Date_Finished": "23.6.20"
+    },
+    {
+      "Author": "Menna Van Praag",
+      "Title": "The Dress Shop Of Dreams",
+      "Date_Finished": "25.6.20"
+    },
+    {
+      "Author": "Jonathan Harvey",
+      "Title": "The History Of Us",
+      "Date_Finished": "28.6.20"
+    },
+    {
+      "Author": "Ruth Hogan",
+      "Title": "Queenie Malone's Paradise Hotel",
+      "Date_Finished": "1.7.20"
+    },
+    {
+      "Author": "Ruth Hogan",
+      "Title": "The Wisdom Of Sally Red Shoes",
+      "Date_Finished": "2.7.20"
+    },
+    {
+      "Author": "Iain Hollingshead",
+      "Title": "Am I Alone In Thinking...?",
+      "Date_Finished": "5.7.20"
+    },
+    {
+      "Author": "Jenny Holmes",
+      "Title": "The Telephone Girls",
+      "Date_Finished": "8.7.20"
+    },
+    {
+      "Author": "Jill Shalvis",
+      "Title": "Almost Just Friends",
+      "Date_Finished": "9.7.20"
+    },
+    {
+      "Author": "Menna Van Praag",
+      "Title": "The House At The End Of Hope Street",
+      "Date_Finished": "14.7.20"
+    },
+    {
+      "Author": "Stephen G. Michaud and Hugh Aynesworth",
+      "Title": "Ted Bundy Conversations With A Killer",
+      "Date_Finished": "15.7.20"
+    },
+    {
+      "Author": "Belinda Jones",
+      "Title": "The California Club",
+      "Date_Finished": "22.7.20"
+    },
+    {
+      "Author": "Catherine Townsend",
+      "Title": "Sleeping Around",
+      "Date_Finished": "27.7.20"
+    },
+    {
+      "Author": "Kate Eastham",
+      "Title": "Miss Nightingale's Nurses",
+      "Date_Finished": "27.7.20"
+    },
+    {
+      "Author": "Fiona Gibson",
+      "Title": "The Mum Who Got Her Life Back",
+      "Date_Finished": "29.7.20"
+    },
+    {
+      "Author": "Susan Lewis",
+      "Title": "Don't Let Me Go",
+      "Date_Finished": "1.8.20"
+    },
+    {
+      "Author": "Cathy Bramley",
+      "Title": "The Lemon Tree Cafe",
+      "Date_Finished": "3.8.20"
+    },
+    {
+      "Author": "Elizabeth Waite ",
+      "Title": "Skinny Lizzie",
+      "Date_Finished": "7.8.20"
+    },
+    {
+      "Author": "Christy Lefteri",
+      "Title": "The Beekeeper Of Aleppo",
+      "Date_Finished": "8.8.20"
+    },
+    {
+      "Author": "Claire Wade",
+      "Title": "The Choice",
+      "Date_Finished": "10.8.20"
+    },
+    {
+      "Author": "Olivia Beirne ",
+      "Title": "The Accidental Love Letter",
+      "Date_Finished": "13.8.20"
+    },
+    {
+      "Author": "Jonathan Harvey",
+      "Title": "The Girl Who Just Appeared ",
+      "Date_Finished": "17.8.20"
+    },
+    {
+      "Author": "Harriet Evans ",
+      "Title": "The Wildflowers",
+      "Date_Finished": "25.8.20"
+    },
+    {
+      "Author": "Iain Hollingshead ",
+      "Title": "Am I Missing Something...?",
+      "Date_Finished": "29.8.20"
+    },
+    {
+      "Author": "Mike Gayle",
+      "Title": "Half A World Away",
+      "Date_Finished": "30.8.20"
+    },
+    {
+      "Author": "Jonathan Harvey",
+      "Title": "The Secrets We Keep ",
+      "Date_Finished": "3.9.20"
+    },
+    {
+      "Author": "Arabella Weir ",
+      "Title": "Stupid Cupid",
+      "Date_Finished": "6.9.20"
+    },
+    {
+      "Author": "Bryony Gordon",
+      "Title": "The Wrong Knickers ",
+      "Date_Finished": "10.9.20"
+    },
+    {
+      "Author": "Eva Weaver",
+      "Title": "The Puppet Boy Of Warsaw",
+      "Date_Finished": "14.9.20"
+    },
+    {
+      "Author": "Harriet Tyce",
+      "Title": "Blood Orange",
+      "Date_Finished": "20.9.20"
+    },
+    {
+      "Author": "Holly Wainwright",
+      "Title": "The Mummy Bloggers",
+      "Date_Finished": "29.9.20"
+    },
+    {
+      "Author": "Lia Louis",
+      "Title": "Somewhere Close To Happy",
+      "Date_Finished": "3.10.20"
+    },
+    {
+      "Author": "Phaedra Patrick",
+      "Title": "The Secrets Of Sunshine ",
+      "Date_Finished": "9.10.20"
+    },
+    {
+      "Author": "T.A. Williams",
+      "Title": "Dreaming Of St-Tropez",
+      "Date_Finished": "13.10.20"
+    },
+    {
+      "Author": "T.A. Williams",
+      "Title": "Dreaming Of Florence",
+      "Date_Finished": "17.10.20"
+    },
+    {
+      "Author": "T.A. Williams",
+      "Title": "Dreaming Of Venice",
+      "Date_Finished": "18.10.20"
+    },
+    {
+      "Author": "Ana Johns",
+      "Title": "The Woman In The White Kimono ",
+      "Date_Finished": "23.10.20"
+    },
+    {
+      "Author": "Susan Edmunds",
+      "Title": "Mummy Needs A Break",
+      "Date_Finished": "26.10.20"
+    },
+    {
+      "Author": "Elisabeth Hyde",
+      "Title": "The Abortionist's Daughter ",
+      "Date_Finished": "30.10.20"
+    },
+    {
+      "Author": "Gayle Forman",
+      "Title": "I Have Lost My Way",
+      "Date_Finished": "2.11.20"
+    },
+    {
+      "Author": "Eleanor Porter",
+      "Title": "The Wheelwright's Daughter",
+      "Date_Finished": "8.11.20"
+    },
+    {
+      "Author": "Catherine Cookson",
+      "Title": "The Golden Straw",
+      "Date_Finished": "15.11.20"
+    },
+    {
+      "Author": "Duncan Barrett and Nuala Calvi ",
+      "Title": "The Girls Who Went To War",
+      "Date_Finished": "20.11.20"
+    },
+    {
+      "Author": "Lloyd Jones",
+      "Title": "Mister Pip",
+      "Date_Finished": "24.11.20"
+    },
+    {
+      "Author": "Jodi Ellen Malpas",
+      "Title": "This Man",
+      "Date_Finished": "29.11.20"
+    },
+    {
+      "Author": "Jodi Ellen Malpas ",
+      "Title": "Beneath This Man",
+      "Date_Finished": "4.12.20"
+    },
+    {
+      "Author": "Jodi Ellen Malpas",
+      "Title": "This Man Confessed",
+      "Date_Finished": "13.12.20"
+    },
+    {
+      "Author": "Judith Kinghorn",
+      "Title": "The Snow Globe ",
+      "Date_Finished": "19.12.20"
+    },
+    {
+      "Author": "Vicki Beeby",
+      "Title": "Christmas With The Ops Room Girls",
+      "Date_Finished": "21.12.20"
+    },
+    {
+      "Author": "Lynda Bellingham",
+      "Title": "Tell Me Tomorrow ",
+      "Date_Finished": "26.12.20"
+    }
+   ]

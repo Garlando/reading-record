@@ -5,8 +5,8 @@
     <div v-bind:BookAttributes="BookAttributes" 
          class="bg-indigo-500 border-black border relative flex-grow">
       <div class="book flex origin-bottom-left">
-        <h1 class="text-2xl m-4">{{BookAttributes.Title}}</h1>
-        <h2 class="text-lg m-4 absolute bottom-0">{{BookAttributes.Author}}</h2>
+        <h1 class="font-bold text-lg m-3">{{BookAttributes.Title}}</h1>
+        <h2 class="text-base m-3 absolute bottom-0">{{BookAttributes.Author}}</h2>
       </div>
     </div>
   </div>
@@ -31,7 +31,7 @@ export default {
         --height: 50px /*Default, just incase*/
     }
     .outerContainer {
-        height: 37rem
+        height: 30rem
     }
     .heightAdjuster {
         height: var(--height);

@@ -1,14 +1,26 @@
 <template>
   <div>
       <h1>Bookshelf</h1>
-      <div class="flex">
+      <div class="flex w-full overflow-x-auto">
         <Book v-for="book in books2021" :key="book" v-bind:BookAttributes="book"/>
+      </div>
+      <div class="h-10 w-full bg-yellow-900"></div>
+
+      <div class="flex w-full overflow-x-auto">
+        <Book v-for="book in sortBooksByAuthor(books2020)" :key="book" v-bind:BookAttributes="book"/>
+      </div>
+      <div class="h-10 w-full bg-yellow-900"></div>
+
+      <div class="flex w-full overflow-x-auto">
+        <Book v-for="book in sortBooksByAuthor(books2020.concat(books2021))" :key="book" v-bind:BookAttributes="book"/>
       </div>
       <div class="h-10 w-full bg-yellow-900"></div>
   </div>
 </template>
 
 <script>
+import sortArray from 'sort-array';
+import moment from 'moment';
 import Book from './Book.vue';
 export default {
     components: {
@@ -16,29 +28,35 @@ export default {
     },
     data() {
         return {
-            books: [
-                {title: "A Watermelon, A Fish And A Bible", author: "Christy Lefteri", finishedReading: "01/01/2021"},
-                {title: "Time Out", author: "Emma Murray", finishedReading: "02/02/2021"},
-                {author: "Lisa Jewell", title: "The Family Upstairs"},
-                {author: "Clare Clark", title: "In The Full Light Of The Sun"},
-                {author: "Hanna Jameson", title: "The Last"},
-                {author: "Ben Aaronovitch", title: "Rivers Of London"}, 
-                {author: "Curtis Sittenfeld", title: "Sisterland"},
-                {author: "Ben Aaronovitch", title: "Moon Over Soho"},
-                {author: "Ben Aaronovitch", title: "Whispers Underground"},
-                {author: "Ben Aaronovitch", title: "Broken Homes"}
-            ],
+            books2020: require("@/resources/books_2020.json"),
             books2021: require("@/resources/books_2021.json")
         }
     },
     methods: {
         getSomeBooks() {
             console.log(this.books2021)
+        },
+        sortBooksByDate(books) {
+            sortArray(books,  {
+                by: 'date',
+                computed: {
+                    date: book => moment(book.Date_Finished, "D.M.YY")
+                }    
+            })
+            return books;
+        },
+        sortBooksByAuthor(books) {
+            sortArray(books,  {
+                by: 'Author'
+            })
+            return books;
         }
     }
 }
 </script>
 
 <style>
-
+    div::-webkit-scrollbar {
+        display: none;
+    }
 </style>
