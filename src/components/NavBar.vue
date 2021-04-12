@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-      <p>Annes Reading Record</p>
+      <p>Annes Bookshelf</p>
       <p v-on:click="click('About')" class="button">About</p>
       <p v-on:click="click('Something')" class="button">Something</p>
   </div>

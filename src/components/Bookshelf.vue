@@ -1,6 +1,5 @@
 <template>
   <div>
-      <h1>Bookshelf</h1>
       <div class="flex w-full overflow-x-auto">
         <Book v-for="book in books2021" :key="book" v-bind:BookAttributes="book"/>
       </div>
