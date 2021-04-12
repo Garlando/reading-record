@@ -10,11 +10,6 @@
         <Book v-for="book in sortBooksByAuthor(books2020)" :key="book" v-bind:BookAttributes="book"/>
       </div>
       <div class="h-10 w-full bg-yellow-900"></div>
-
-      <div class="flex w-full overflow-x-auto">
-        <Book v-for="book in sortBooksByAuthor(books2020.concat(books2021))" :key="book" v-bind:BookAttributes="book"/>
-      </div>
-      <div class="h-10 w-full bg-yellow-900"></div>
   </div>
 </template>
 
