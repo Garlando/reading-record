@@ -4,7 +4,7 @@
     </div>    
     <div v-on:click="showBookDetails = true"
          v-bind:BookAttributes="BookAttributes" 
-         class="bg-indigo-500 border-black border relative flex-grow">
+         class="bg-gradient-to-b from-indigo-500 to-blue-400 border-black border relative flex-grow">
       <div class="book flex origin-bottom-left">
         <h1 class="font-bold text-lg m-3">{{BookAttributes.Title}}</h1>
         <h2 class="text-base m-3 absolute bottom-0">{{BookAttributes.Author}}</h2>

@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-      <p>Annes Bookshelf</p>
+      <p class="leading-8 text-xl">Annes Bookshelf</p>
       <p v-on:click="click('About')" class="button">About</p>
       <p v-on:click="click('Something')" class="button">Something</p>
   </div>
@@ -24,12 +24,9 @@ export default {
         top: 0;
         background-color: aqua;
         display: flex;
-        /* justify-content: center;
-        align-items: center; */
     }
     .navbar p {
-        width: 33%;
-        font-size: 1rem;
+        width: 50%;
         font-family: 'Courier New', Courier, monospace;
         font-weight: 600;
     }
